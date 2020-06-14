@@ -18,6 +18,8 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 
 We are four students from UPC CITM studing the degree in Videogames design and developement:
 
+
+
 <img src="/FOTOS/Photo_Group_2.jpg.jpg" alt="hi" class="inline"/>
 
 **Alex Gesti**
