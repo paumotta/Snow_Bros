@@ -33,11 +33,13 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 
 
 **Pau Motta** 
+
 ![io](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/io.jpg)
 + Art/Design.
 
 
 **Raul Cano**
+
 ![Raul](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
 + Art/Code.
 
