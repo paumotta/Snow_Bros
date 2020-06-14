@@ -1,6 +1,6 @@
 ## **The Crossing**
 
-![Icon_Less](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Icon_Less.png)
+<img src="FOTOS/Icon_Less.png" alt="hi" class="inline"/>
 
 Welcome to the official webpage of [Snow Bros](https://github.com/alexgesti/Snow-Bros.-Nick-and-Tom) from The Crossing.
 
@@ -17,31 +17,35 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 ### Team Members
 
 We are four students from UPC CITM studing the degree in Videogames design and developement:
-![Photo_Group_2.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Photo_Group_2.jpg)
+
+
+<img src="FOTOS/Photo_Group_2.jpg" alt="hi" class="inline"/>
 
 **Alex Gesti**
 
-![alex.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/alex.jpg)
+<img src="FOTOS/alex.jpg" alt="hi" class="inline"/>
 
 + Managment/Code/Art/Audio.
 
  
 **Lauren Montenegro**  
 
-![lauren.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/lauren.jpg)
+
+<img src="FOTOS/lauren.jpg" alt="hi" class="inline"/>
 
 + Audio/Art.
 
 
 **Pau Motta** 
 
-![pau.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/io.jpg)
+
+<img src="FOTOS/pau.jpg" alt="hi" class="inline"/>
 + Art/Design.
 
 
 **Raul Cano**
 
-![raul.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
+<img src="FOTOS/raul.jpg" alt="hi" class="inline"/>
 + Art/Code.
 
 
