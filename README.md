@@ -43,8 +43,6 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 ![ercani.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
 + Art/Code.
 
-<img src = "https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg" alt = ercani.jpg">
-
 
 
 
