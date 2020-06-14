@@ -1,6 +1,6 @@
 ## **The Crossing**
 
-![Logo](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Icon_Less.png)
+![Icon_Less](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Icon_Less.png)
 
 Welcome to the official webpage of [Snow Bros](https://github.com/alexgesti/Snow-Bros.-Nick-and-Tom) of The Crossing.
 
@@ -20,27 +20,27 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 
 **Alex Gesti**
 
-![Alex](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/alex.jpg)
+![alex](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/alex.jpg)
 
 + Managment/Code/Art/Audio.
 
  
 **Lauren Montenegro**  
 
-![Lauren](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/lauren.jpg)
+![lauren.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/lauren.jpg)
 
 + Audio/Art.
 
 
 **Pau Motta** 
 
-![io](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/io.jpg)
+![io.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/io.jpg)
 + Art/Design.
 
 
 **Raul Cano**
 
-![Raul](https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Ffurrys123%2Ffurros%2F&psig=AOvVaw3noEIH2MKTnW5IDAf946FP&ust=1592235714985000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiMxLTSgeoCFQAAAAAdAAAAABAD)
+![Raul](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
 + Art/Code.
 
 
