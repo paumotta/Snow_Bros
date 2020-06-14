@@ -38,13 +38,13 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 
 **Pau Motta** 
 
-<img src="/FOTOS/io.jpg" alt="hi" class="inline"/>
+<img src="/FOTOS/pau.jpg" alt="hi" class="inline"/>
 + Art/Design.
 
 
 **Raul Cano**
 
-<img src="/FOTOS/ercani.jpg" alt="hi" class="inline"/>
+<img src="/FOTOS/raul.jpg" alt="hi" class="inline"/>
 + Art/Code.
 
 
