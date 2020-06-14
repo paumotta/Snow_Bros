@@ -1,23 +1,19 @@
 ## **The Crossing**
 
+
 Welcome to the official webpage of [Snow Bros](https://github.com/alexgesti/Snow-Bros.-Nick-and-Tom) of The Crossing.
 
 The game is about knock out some enemies off the screen, throwing snow to them until they turn into a snowball and pushing it to kill the enemies. The game allows up to two players.
 The story is about saving the land from King Scorch, that cursed the protagonists and turn them into snowmen, and captured the princess twins Teri and Tina.
 
-### Gamepla
+### Gameplay
 
 
 
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+### Team Members
 
 
 
