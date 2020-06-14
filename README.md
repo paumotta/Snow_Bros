@@ -1,6 +1,6 @@
 ## **The Crossing**
 
-![Icon_Less](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Icon_Less.jpg)
+![Icon_Less](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Icon_Less.png)
 
 Welcome to the official webpage of [Snow Bros](https://github.com/alexgesti/Snow-Bros.-Nick-and-Tom) from The Crossing.
 
