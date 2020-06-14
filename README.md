@@ -28,7 +28,7 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 
 <img src="FOTOS/alex.jpg" alt="hi" class="inline"/>
 
-+ Managment/Code/Art/Audio.
++ Managment/Code/Art/Audio/Colliders/Levels.
 
  
 **Lauren Montenegro**  
@@ -43,13 +43,18 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 
 
 <img src="FOTOS/pau.jpg" alt="hi" class="inline"/>
-+ Art/Design.
++ Art/Audio/Colliders/Web/Puntuation
 
 
 **Raul Cano**
 
 <img src="FOTOS/raul.jpg" alt="hi" class="inline"/>
-+ Art/Code.
++ Art/UI/Colliders/Enemies/
+
+
+### Release
+
+Click here to download our first release.
 
 
 
