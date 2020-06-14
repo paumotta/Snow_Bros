@@ -16,11 +16,11 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 
 ### Team Members
 
-![Grupo](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Photo_Group_2.jpg)
+![Photo_Group_2.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Photo_Group_2.jpg)
 
 **Alex Gesti**
 
-![alex](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/alex.jpg)
+![alex.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/alex.jpg)
 
 + Managment/Code/Art/Audio.
 
@@ -40,7 +40,7 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 
 **Raul Cano**
 
-![Raul](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
+![ercani.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
 + Art/Code.
 
 
