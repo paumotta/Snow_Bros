@@ -11,8 +11,8 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 
 
 
-
-If the video doesn't works, see it on YouTube [here](https://www.youtube.com/watch?v=l-2NHnRsyV8&feature=youtu.be).
+<video src="https://www.youtube.com/watch?v=y8kArjtCETc&feature=youtu.be" align="center" width="645" height="520" controls preload></video>
+If the video doesn't works, see it on YouTube [here](https://www.youtube.com/watch?v=y8kArjtCETc&feature=youtu.be).
 
 
 
@@ -28,7 +28,7 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 
 <img src="FOTOS/alex.jpg" alt="hi" class="inline"/>
 
-+ Managment/Code/Art/Audio/Colliders/Levels.
++ Managment/Code/Art/Audio/Colliders/Levels/QA tester
 
  
 **Lauren Montenegro**  
@@ -49,13 +49,15 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 **Raul Cano**
 
 <img src="FOTOS/raul.jpg" alt="hi" class="inline"/>
-+ Art/UI/Colliders/Enemies/
++ Art/UI/Colliders/Enemies UI/Snowball movement
 
 
 ### Release
 
-Click here to download our first release.
-
+Click here to download our last release.
+<a href="FOTOS/TheCrossing_SnowBros.Nick.Tom_v0.5.zip" download="Snow Bros - 0.5">
+                       Snow Bros - Download
+                      </a>
 
 
 
