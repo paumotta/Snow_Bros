@@ -40,7 +40,7 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 
 **Raul Cano**
 
-![Raul](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
+![Raul]https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Ffurrys123%2Ffurros%2F&psig=AOvVaw3noEIH2MKTnW5IDAf946FP&ust=1592235714985000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiMxLTSgeoCFQAAAAAdAAAAABAD)
 + Art/Code.
 
 
