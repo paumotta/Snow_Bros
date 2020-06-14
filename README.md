@@ -24,7 +24,7 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 
 **Alex Gesti**
 
-<img src="/FOTOS/alex.jpg" alt="hi" class="inline"/>
+<img src="/FOTOS/Alex.jpg" alt="hi" class="inline"/>
 
 + Managment/Code/Art/Audio.
 
