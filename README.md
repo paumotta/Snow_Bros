@@ -1,6 +1,6 @@
 ## **The Crossing**
 
-![Icon_Less](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Icon_Less.png)
+![Icon_Less](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/Icon_Less.jpg)
 
 Welcome to the official webpage of [Snow Bros](https://github.com/alexgesti/Snow-Bros.-Nick-and-Tom) of The Crossing.
 
@@ -42,6 +42,8 @@ The story is about saving the land from King Scorch, that cursed the protagonist
 
 ![ercani.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
 + Art/Code.
+
+<img src = "https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg" alt = ercani.jpg">
 
 
 
