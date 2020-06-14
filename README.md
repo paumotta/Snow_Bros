@@ -7,9 +7,9 @@ Welcome to the official webpage of [Snow Bros](https://github.com/alexgesti/Snow
 The game is about knock out some enemies off the screen, throwing snow to them until they turn into a snowball and pushing it to kill the enemies. The game allows up to two players.
 The story is about saving the land from King Scorch, that cursed the protagonists and turn them into snowmen, and captured the princess twins Teri and Tina.
 
-### Gameplay
+### Snow Bros Gameplay
 
-See the version 1.0 of the game fully made by RedPill Studios!
+
 
 <video src="https://www.youtube.com/watch?v=l-2NHnRsyV8&feature=youtu.be" align="center" width="645" height="520" controls preload></video>
 If the video doesn't works, see it on YouTube [here](https://www.youtube.com/watch?v=l-2NHnRsyV8&feature=youtu.be).
