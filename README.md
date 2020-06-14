@@ -35,13 +35,13 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 
 **Pau Motta** 
 
-![io.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/io.jpg)
+![pau.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/io.jpg)
 + Art/Design.
 
 
 **Raul Cano**
 
-![ercani.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
+![raul.jpg](https://github.com/paumotta/snow_Bros_Website/blob/master/FOTOS/ercani.jpg)
 + Art/Code.
 
 
