@@ -55,7 +55,7 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 ### Release
 
 Click here to download our last release.
-<a href="FOTOS/TheCrossing_SnowBros.Nick&Tom_v1.zip" download="Snow Bros - 0.5">
+<a href="https://github.com/alexgesti/Snow-Bros.-Nick-and-Tom/releases/download/1.0/TheCrossing_SnowBros.Nick.Tom_v1.0.zip" download="Snow Bros - 0.5">
                        Snow Bros - Download
                       </a>
 
