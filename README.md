@@ -43,12 +43,14 @@ We are four students from UPC CITM studing the degree in Videogames design and d
 
 
 <img src="FOTOS/pau.jpg" alt="hi" class="inline"/>
+
 + Art/Audio/Colliders/Web/Puntuation
 
 
 **Raul Cano**
 
 <img src="FOTOS/raul.jpg" alt="hi" class="inline"/>
+
 + Art/UI/Colliders/Enemies UI/Snowball movement
 
 
